@@ -23,7 +23,7 @@ This repository contains a Streamlit web application that classifies Email/SMS m
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/spam-classifier.git
+    git clone https://github.com/MRamya-sri/Email_SMS-Spam-Classifier.git
     cd spam-classifier
     ```
 
